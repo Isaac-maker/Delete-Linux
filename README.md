@@ -1,4 +1,4 @@
-# 🛡️ DELE-T-LINUX
+# 🛡️ DELETE-LINUX
 
 **DELE-T-LINUX** is a robust Python-driven automation tool designed for Linux users who prioritize data privacy. This script streamlines the secure and permanent deletion of files and directories by leveraging forensic-grade tools, ensuring your sensitive data remains unrecoverable.
 
@@ -27,4 +27,28 @@
 ### 1. Clone the repository
 ```bash
 git clone [https://github.com/Isaac-maker/dele-t-linux.git](https://github.com/Isaac-maker/dele-t-linux.git)
+
 cd dele-t-linux
+
+2. Run the tool
+
+No manual setup is required. Simply launch the script:
+Bash
+
+python3 main.py
+
+3. Tool Comparison
+Tool	Best Use Case	Method
+Shred	Files by extension or individual files	Overwrites with random data, zeros, and truncates.
+Wipe	Directories and complex folder trees	Erases file nodes and indices from the filesystem.
+⚠️ Safety Warning
+
+    [!IMPORTANT] This tool performs irreversible actions. Once a file is processed by DELE-T-LINUX, it cannot be recovered even with specialized forensic software. Use it with caution.
+
+👤 Author
+
+Developed with ❤️ by Isaac-maker.
+
+    GitHub: @Isaac-maker
+
+If you find this project useful, please consider giving it a ⭐️ on GitHub to support its development!
