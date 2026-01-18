@@ -28,6 +28,19 @@
 ```bash
 git clone https://github.com/Isaac-maker/dele-t-linux.git
 cd dele-t-linux
+```
+## ⚠️ Safety Warning
+
+    [!IMPORTANT] This tool performs irreversible actions. Once a file is processed by DELE-T-LINUX, it cannot be recovered even with specialized forensic software. Use it with caution.
+---
+## 👤 Author
+
+Developed with ❤️ by Isaac-maker.
+
+    GitHub: @Isaac-maker
+---
+If you find this project useful, please consider giving it a ⭐️ on GitHub to support its development!
+
 
 
 
