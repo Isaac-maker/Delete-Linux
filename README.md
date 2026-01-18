@@ -28,9 +28,10 @@
 ```bash
 git clone [https://github.com/Isaac-maker/dele-t-linux.git](https://github.com/Isaac-maker/dele-t-linux.git)
 
-cd dele-t-linux
+cd dele-t-linux```
 
-2. Run the tool
+--- 
+## 2. Run the tool
 
 No manual setup is required. Simply launch the script:
 Bash
@@ -52,3 +53,4 @@ Developed with ❤️ by Isaac-maker.
     GitHub: @Isaac-maker
 
 If you find this project useful, please consider giving it a ⭐️ on GitHub to support its development!
+
