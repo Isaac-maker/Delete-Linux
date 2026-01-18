@@ -1,6 +1,6 @@
 # 🛡️ DELETE-LINUX
 
-**DELE-T-LINUX** is a robust Python-driven automation tool designed for Linux users who prioritize data privacy. This script streamlines the secure and permanent deletion of files and directories by leveraging forensic-grade tools, ensuring your sensitive data remains unrecoverable.
+**DELETE-LINUX** is a robust Python-driven automation tool designed for Linux users who prioritize data privacy. This script streamlines the secure and permanent deletion of files and directories by leveraging forensic-grade tools, ensuring your sensitive data remains unrecoverable.
 
 ---
 
@@ -40,6 +40,7 @@ Developed with ❤️ by Isaac-maker.
     GitHub: @Isaac-maker
 ---
 If you find this project useful, please consider giving it a ⭐️ on GitHub to support its development!
+
 
 
 
